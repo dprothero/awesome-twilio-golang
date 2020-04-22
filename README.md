@@ -12,7 +12,7 @@ Contributions are very welcome. Please send a PR if you want to add or change th
 
 This list is ordered by the number of features implemented.
 
-Name                                                                      |SMS|Call|TwiML|IP Msg|Usage|Conf|Acc|Queue|Rec|Av Num|Inc Num|Tw App|Media|keys|Noti|Transcript|Out Call Id|Lookup|Alerts|SIP
+Name                                                                      |SMS|Call|TwiML|Chat|Usage|Conf|Acc|Queue|Rec|Av Num|Inc Num|Tw App|Media|keys|Noti|Transcript|Out Call Id|Lookup|Alerts|SIP
 --------------------------------------------------------------------------|---|----|-----|------|-----|----|---|-----|---|------|-------|------|-----|----|----|----------|-----------|------|------|---
 [natebrennand/twiliogo](https://github.com/natebrennand/twiliogo)         |yes|yes | yes |      |yes  |yes |yes|yes  |yes|yes   |yes    |yes   |yes  |    |yes |yes       |           |      |      |yes
 [kevinburke/twilio-go](https://github.com/kevinburke/twilio-go)           |yes|yes |     |      |     |yes |yes|     |yes|      |yes    |      |yes  |yes |    |yes       |yes        |      |yes   |
